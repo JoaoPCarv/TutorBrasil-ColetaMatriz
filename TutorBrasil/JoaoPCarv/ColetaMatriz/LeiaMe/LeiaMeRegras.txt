@@ -1,0 +1,14 @@
+Leia-me - Regras 
+----------------
+
+Número de regras atual: 5, sendo estas {
+
+         (código = 01) : {l < c};
+	   (código = 02) : {l == c};
+	   (código = 03) : {l + c = 6};
+	   (código = 04) : {l > c};
+	   (código = 05) : {l - c > 5}.
+	   
+}, em que (l,c) é o endereço em análise da entrada da matriz.
+
+Última atualização em 15/03/2023.

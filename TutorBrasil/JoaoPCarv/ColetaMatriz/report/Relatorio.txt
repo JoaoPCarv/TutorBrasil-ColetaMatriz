@@ -1,0 +1,99 @@
+Coletado pela regra 1: elemento A[0][1]; 
+Coletado pela regra 1: elemento A[0][2]; 
+Coletado pela regra 1: elemento A[0][3]; 
+Coletado pela regra 1: elemento A[0][4]; 
+Coletado pela regra 1: elemento A[1][2]; 
+Coletado pela regra 1: elemento A[1][3]; 
+Coletado pela regra 1: elemento A[1][4]; 
+Coletado pela regra 1: elemento A[2][3]; 
+Coletado pela regra 1: elemento A[2][4]; 
+Coletado pela regra 1: elemento A[3][4]; 
+
+Coletado pela regra 2: elemento A[0][0]; 
+Coletado pela regra 2: elemento A[1][1]; 
+Coletado pela regra 2: elemento A[2][2]; 
+Coletado pela regra 2: elemento A[3][3]; 
+Coletado pela regra 2: elemento A[4][4]; 
+
+Coletado pela regra 3: elemento A[2][4]; 
+Coletado pela regra 3: elemento A[3][3]; 
+Coletado pela regra 3: elemento A[4][2]; 
+Coletado pela regra 3: elemento A[5][1]; 
+Coletado pela regra 3: elemento A[6][0]; 
+
+Coletado pela regra 4: elemento A[1][0]; 
+Coletado pela regra 4: elemento A[2][0]; 
+Coletado pela regra 4: elemento A[2][1]; 
+Coletado pela regra 4: elemento A[3][0]; 
+Coletado pela regra 4: elemento A[3][1]; 
+Coletado pela regra 4: elemento A[3][2]; 
+Coletado pela regra 4: elemento A[4][0]; 
+Coletado pela regra 4: elemento A[4][1]; 
+Coletado pela regra 4: elemento A[4][2]; 
+Coletado pela regra 4: elemento A[4][3]; 
+Coletado pela regra 4: elemento A[5][0]; 
+Coletado pela regra 4: elemento A[5][1]; 
+Coletado pela regra 4: elemento A[5][2]; 
+Coletado pela regra 4: elemento A[5][3]; 
+Coletado pela regra 4: elemento A[5][4]; 
+Coletado pela regra 4: elemento A[6][0]; 
+Coletado pela regra 4: elemento A[6][1]; 
+Coletado pela regra 4: elemento A[6][2]; 
+Coletado pela regra 4: elemento A[6][3]; 
+Coletado pela regra 4: elemento A[6][4]; 
+Coletado pela regra 4: elemento A[7][0]; 
+Coletado pela regra 4: elemento A[7][1]; 
+Coletado pela regra 4: elemento A[7][2]; 
+Coletado pela regra 4: elemento A[7][3]; 
+Coletado pela regra 4: elemento A[7][4]; 
+Coletado pela regra 4: elemento A[8][0]; 
+Coletado pela regra 4: elemento A[8][1]; 
+Coletado pela regra 4: elemento A[8][2]; 
+Coletado pela regra 4: elemento A[8][3]; 
+Coletado pela regra 4: elemento A[8][4]; 
+Coletado pela regra 4: elemento A[9][0]; 
+Coletado pela regra 4: elemento A[9][1]; 
+Coletado pela regra 4: elemento A[9][2]; 
+Coletado pela regra 4: elemento A[9][3]; 
+Coletado pela regra 4: elemento A[9][4]; 
+Coletado pela regra 4: elemento A[10][0]; 
+Coletado pela regra 4: elemento A[10][1]; 
+Coletado pela regra 4: elemento A[10][2]; 
+Coletado pela regra 4: elemento A[10][3]; 
+Coletado pela regra 4: elemento A[10][4]; 
+Coletado pela regra 4: elemento A[11][0]; 
+Coletado pela regra 4: elemento A[11][1]; 
+Coletado pela regra 4: elemento A[11][2]; 
+Coletado pela regra 4: elemento A[11][3]; 
+Coletado pela regra 4: elemento A[11][4]; 
+
+Coletado pela regra 5: elemento A[6][0]; 
+Coletado pela regra 5: elemento A[7][0]; 
+Coletado pela regra 5: elemento A[7][1]; 
+Coletado pela regra 5: elemento A[8][0]; 
+Coletado pela regra 5: elemento A[8][1]; 
+Coletado pela regra 5: elemento A[8][2]; 
+Coletado pela regra 5: elemento A[9][0]; 
+Coletado pela regra 5: elemento A[9][1]; 
+Coletado pela regra 5: elemento A[9][2]; 
+Coletado pela regra 5: elemento A[9][3]; 
+Coletado pela regra 5: elemento A[10][0]; 
+Coletado pela regra 5: elemento A[10][1]; 
+Coletado pela regra 5: elemento A[10][2]; 
+Coletado pela regra 5: elemento A[10][3]; 
+Coletado pela regra 5: elemento A[10][4]; 
+Coletado pela regra 5: elemento A[11][0]; 
+Coletado pela regra 5: elemento A[11][1]; 
+Coletado pela regra 5: elemento A[11][2]; 
+Coletado pela regra 5: elemento A[11][3]; 
+Coletado pela regra 5: elemento A[11][4]; 
+
+A regra 1 coletou 10 elementos da matriz. 
+A regra 2 coletou 5 elementos da matriz. 
+A regra 3 coletou 5 elementos da matriz. 
+A regra 4 coletou 45 elementos da matriz. 
+A regra 5 coletou 20 elementos da matriz. 
+
+A regra 4 foi quem coletou mais dados.
+
+Executado em 15/03/2023 às 19:20:14.
